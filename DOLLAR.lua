@@ -1,8 +1,8 @@
 ------------------------------------------------
--- This Source Was Developed By (Hmd) @FF4FFFE.--
---   This Is The Source Channel @dollarTM .   --
+-- This Source Was Developed By (Hmd) @GJEGG.--
+--   This Is The Source Channel @AFTU2 .   --
 --                - DOLLAR -                 --
---        -- https://t.me/dollarTM --         --
+--        -- https://t.me/AFTU2 --         --
 ------------------------------------------------ 
 DevAbs  = dofile("./libs/redis.lua").connect("127.0.0.1", 6379)
 serpent = dofile("./libs/serpent.lua")
