@@ -1,4 +1,4 @@
-# <p align="center" > تنصيب سورس دولار
+# <p align="center" > تنصيب سورس ميرو
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود التنصيب الاول مع المكاتب ↬ ⤈
 # <p align="center" > `git clone https://github.com/DOLLARTEAM/DOLLAR.git;cd DOLLAR;chmod +x DOLLAR.sh;./DOLLAR.sh install`
@@ -23,4 +23,4 @@
 # <p align="center" > `cd DOLLAR;rm -rf config.lua;./Run`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > [Source Ch](https://t.me/dollarTM) • [قناة السورس](https://t.me/dollarTM)
-# <p align="center" > [Exp Source](https://t.me/BBF8BB) • [مطور السورس](https://t.me/BBF8BB)
+# <p align="center" > [Exp Source](https://t.me/AFTU2) • [مطور السورس](https://t.me/GJEGG)
