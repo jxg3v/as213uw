@@ -3,7 +3,7 @@ THIS_DIR=$(cd $(dirname $0); pwd)
 Version=`lsb_release -rs | cut -f1 -d"."`
 install() {
 echo -e "\033[0;36m"
-echo -e "~ Welcome To Source DOLLAR - اهلا بك في سورس ديف بروكس ~"
+echo -e "~ Welcome To Source DOLLAR - اهلا بك في سورس ميرو ~"
 echo -e "     ~ { Setting Up Offices - جاري رفع المكاتب } ~"
 echo -e "\033[0m"
 sudo apt-get update -y
@@ -50,9 +50,9 @@ echo -e "|   | | | |/ _ \ \ / / |_) | '__/ _ \ \/ /  |"
 echo -e "|   | |_| |  __/\ V /|  __/| | | (_) >  <   |"
 echo -e "|   |____/ \___| \_/ |_|   |_|  \___/_/\_\  |"
 echo -e "|-------------------------------------------|"
-echo -e "|This Source Was Developed By (ABS) @IQ_ABS.|"
-echo -e "|  This Is The Source Channel @dollarTM .   |"
-echo -e "|               - DOLLAR -                 |"
+echo -e "|This Source Was Developed By (ABS) @AFTU2.|"
+echo -e "|  This Is The Source Channel @GJEGG .   |"
+echo -e "|               - Abuian -                 |"
 echo -e "---------------------------------------------"
 echo -e "\033[0m"
 cd $THIS_DIR && sudo chmod +x tg
