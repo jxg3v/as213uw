@@ -22,5 +22,5 @@
 # <p align="center" > ⤈ ↫ كود تغير ايدي المطور الاساسي وتوكن البوت ↬ ⤈
 # <p align="center" > `cd DOLLAR;rm -rf config.lua;./Run`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-# <p align="center" > [Source Ch](https://t.me/dollarTM) • [قناة السورس](https://t.me/dollarTM)
+# <p align="center" > [Source Ch](https://t.me/XXK6X) • [قناة السورس](https://t.me/AFTU2)
 # <p align="center" > [Exp Source](https://t.me/AFTU2) • [مطور السورس](https://t.me/GJEGG)
