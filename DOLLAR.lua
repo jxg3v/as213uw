@@ -1,7 +1,7 @@
 ------------------------------------------------
 -- This Source Was Developed By (Hmd) @GJEGG.--
 --   This Is The Source Channel @AFTU2 .   --
---                - DOLLAR -                 --
+--                - Abuiun -                 --
 --        -- https://t.me/AFTU2 --         --
 ------------------------------------------------ 
 DevAbs  = dofile("./libs/redis.lua").connect("127.0.0.1", 6379)
