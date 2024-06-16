@@ -10684,8 +10684,8 @@ end
 --     Source DevProx     --
 end 
 ------------------------------------------------
--- This Source Was Developed By (ABS) @IQ_ABS.--
---   This Is The Source Channel @dollarTM .   --
+-- This Source Was Developed By (ABS) @GJEGG.--
+--   This Is The Source Channel @AFTU2 .   --
 --                - DevProx -                 --
---        -- https://t.me/dollarTM --         --
+--        -- https://t.me/AFTU2 --         --
 ------------------------------------------------ 
